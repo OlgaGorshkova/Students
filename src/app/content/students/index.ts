@@ -1,0 +1,1 @@
+export  { View as Students } from './view';
